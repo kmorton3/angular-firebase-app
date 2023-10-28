@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "first-angular-firebase-app",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "saltys-first-firebase-project": {
+      "hosting": {
+        "first-angular-firebase-app": [
+          "saltys-first-firebase-project"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "saltys-first-firebase-project"
+  }
+}
